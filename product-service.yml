@@ -14,7 +14,8 @@ spring:
   application:
     name: PRODUCT-SERVICE
   
-
+app:
+  title:advik
 #eureka:
 #  instance:
 #    prefer-ip-address: true
